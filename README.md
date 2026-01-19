@@ -27,32 +27,16 @@
 <span style="height: 10px; width: 10px; background-color: #ffbd2e; border-radius: 50%; display: inline-block;"></span>
 <span style="height: 10px; width: 10px; background-color: #27c93f; border-radius: 50%; display: inline-block;"></span>
 </div>
-<span style="color: #38BDF8; font-family: monospace;">root@zaqi-server:~$</span> <span style="color: #fff; font-family: monospace;">cat about-me.conf</span>
+<span style="color: #38BDF8; font-family: monospace;">root@zaqi-server:~$</span> <span style="color: #fff; font-family: monospace;">cat engineering-profile.conf</span>
 <br><br>
 <p align="left" style="font-family: sans-serif; color: #c9d1d9; margin: 0; font-size: 14px; line-height: 1.6;">
-Saya adalah <b>Fullstack Engineer</b> dengan spesialisasi ganda di pengembangan aplikasi dan manajemen server.
+Saya adalah <b>Fullstack Engineer</b> yang unik karena memiliki pemahaman mendalam tentang <b>Server Administration</b>.
 <br><br>
-Saya menjembatani kesenjangan antara <b>Kode (Dev)</b> dan <b>Infrastruktur (Ops)</b>. Terbiasa melakukan deployment mandiri menggunakan <b>Ubuntu</b>, konfigurasi <b>Nginx Reverse Proxy</b>, dan optimasi database.
+Saya tidak hanya coding fitur dengan <b>Laravel & React</b>, tapi juga merancang infrastruktur production menggunakan <b>Ubuntu</b>, mengamankan server dengan <b>SSH Hardening</b>, dan mengoptimalkan <b>Nginx Reverse Proxy</b>.
 </p>
 <br>
-<span style="color: #38BDF8; font-family: monospace;">root@zaqi-server:~$</span> <span style="color: #fff; font-family: monospace;">./show-server-specs.sh</span>
+<span style="color: #38BDF8; font-family: monospace;">root@zaqi-server:~$</span> <span style="color: #fff; font-family: monospace;">./show-skills.sh --all</span>
 </div>
-
-<br>
-
-<details>
-<summary style="cursor: pointer; color: #38BDF8; font-family: sans-serif; font-weight: 600; padding: 10px; border: 1px solid #30363d; border-radius: 6px;">
-⚡ Click to Expand: Server Capabilities
-</summary>
-<div style="padding: 15px; border: 1px solid #30363d; border-top: none; border-radius: 0 0 6px 6px; background-color: #0d1117;">
-<ul style="color: #c9d1d9; font-size: 13px;">
-<li>🐧 <b>OS:</b> Ubuntu 22.04 LTS, Debian, TurnKey Linux.</li>
-<li>🌐 <b>Web Server:</b> Nginx (Block Config, SSL/Certbot, Gzip).</li>
-<li>🛡️ <b>Security:</b> UFW Firewall Rules, SSH Key Auth.</li>
-<li>🔄 <b>DevOps:</b> Git Version Control, Basic CI/CD Pipeline.</li>
-</ul>
-</div>
-</details>
 
 </td>
 <td width="45%" valign="top">
@@ -70,48 +54,73 @@ Saya menjembatani kesenjangan antara <b>Kode (Dev)</b> dan <b>Infrastruktur (Ops
 </table>
 
 <br>
-
-<h3 align="left" style="color: #38BDF8; font-family: sans-serif; border-bottom: 1px solid #30363d; padding-bottom: 10px;">
-🛠️ TECHNOLOGY STACK & ARSENAL
+<h3 align="center" style="font-family: sans-serif; color: #38BDF8; margin-bottom: 20px;">
+🛠️ TECHNICAL ARSENAL
 </h3>
 
-<table width="100%" style="border-collapse: separate; border-spacing: 0;">
-<tr>
-<td width="33%" valign="top" style="padding: 5px;">
-<div align="center" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px; background-color: #0d1117; height: 100%;">
-<img src="https://img.shields.io/badge/INFRASTRUCTURE-0D1117?style=for-the-badge&logo=linux&logoColor=38BDF8" />
-<br><br>
-<img src="https://skillicons.dev/icons?i=ubuntu,debian,linux,nginx,bash,docker&theme=dark&perline=3" />
-<br><br>
-<span style="font-size: 12px; color: #9CA3AF;">System Administration</span>
+<div align="center">
+<p style="color: #94A3B8; font-family: monospace; font-size: 13px; margin-bottom: 10px;">
+// CORE TECHNOLOGIES
+</p>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=react,laravel,nginx,ubuntu&theme=dark" />
+</a>
 </div>
-</td>
-
-<td width="33%" valign="top" style="padding: 5px;">
-<div align="center" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px; background-color: #0d1117; height: 100%;">
-<img src="https://img.shields.io/badge/BACKEND_CORE-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
-<br><br>
-<img src="https://skillicons.dev/icons?i=laravel,php,mysql,composer,postman,git&theme=dark&perline=3" />
-<br><br>
-<span style="font-size: 12px; color: #9CA3AF;">Logic & Database</span>
-</div>
-</td>
-
-<td width="33%" valign="top" style="padding: 5px;">
-<div align="center" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px; background-color: #0d1117; height: 100%;">
-<img src="https://img.shields.io/badge/INTERFACE-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<br><br>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,html,css&theme=dark&perline=3" />
-<br><br>
-<span style="font-size: 12px; color: #9CA3AF;">UI/UX Implementation</span>
-</div>
-</td>
-</tr>
-</table>
-
 <br>
 
-<h3 align="left" style="color: #38BDF8; font-family: sans-serif;">
+<div align="center">
+
+<details>
+<summary style="cursor: pointer; background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 10px; display: inline-flex; align-items: center; justify-content: center; width: 85%; margin-bottom: 8px;">
+<img src="https://img.shields.io/badge/SERVER_&_DEVOPS-Click_to_Expand-0D1117?style=social&logo=linux" alt="DevOps" />
+</summary>
+<div style="padding: 15px; background-color: #0d1117; border: 1px solid #30363d; border-top: none; border-radius: 0 0 6px 6px; width: 85%; margin-bottom: 15px;">
+<p style="color: #38BDF8; font-family: monospace; font-size: 12px; margin-bottom: 10px;">
+root@server:~/deploy# ls -la
+</p>
+<img src="https://skillicons.dev/icons?i=ubuntu,debian,linux,nginx,bash,docker,git,github&theme=dark&perline=8" />
+<br><br>
+<img src="https://img.shields.io/badge/Skill-Reverse_Proxy-0D1117?style=flat-square&logo=nginx&logoColor=009639" />
+<img src="https://img.shields.io/badge/Skill-SSH_Hardening-0D1117?style=flat-square&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Skill-TurnKey_Linux-0D1117?style=flat-square&logo=debian&logoColor=A81D33" />
+</div>
+</details>
+
+<details>
+<summary style="cursor: pointer; background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 10px; display: inline-flex; align-items: center; justify-content: center; width: 85%; margin-bottom: 8px;">
+<img src="https://img.shields.io/badge/BACKEND_&_DATABASE-Click_to_Expand-0D1117?style=social&logo=laravel" alt="Backend" />
+</summary>
+<div style="padding: 15px; background-color: #0d1117; border: 1px solid #30363d; border-top: none; border-radius: 0 0 6px 6px; width: 85%; margin-bottom: 15px;">
+<p style="color: #FF2D20; font-family: monospace; font-size: 12px; margin-bottom: 10px;">
+php artisan migrate:fresh --seed
+</p>
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql,composer,postman&theme=dark&perline=6" />
+<br><br>
+<img src="https://img.shields.io/badge/Architecture-MVC_Pattern-0D1117?style=flat-square&logo=laravel&logoColor=FF2D20" />
+<img src="https://img.shields.io/badge/Data-REST_API-0D1117?style=flat-square&logo=postman&logoColor=FF6C37" />
+</div>
+</details>
+
+<details>
+<summary style="cursor: pointer; background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 10px; display: inline-flex; align-items: center; justify-content: center; width: 85%;">
+<img src="https://img.shields.io/badge/FRONTEND_&_UI-Click_to_Expand-0D1117?style=social&logo=react" alt="Frontend" />
+</summary>
+<div style="padding: 15px; background-color: #0d1117; border: 1px solid #30363d; border-top: none; border-radius: 0 0 6px 6px; width: 85%;">
+<p style="color: #61DAFB; font-family: monospace; font-size: 12px; margin-bottom: 10px;">
+npm run build
+</p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,html,css,figma&theme=dark&perline=7" />
+<br><br>
+<img src="https://img.shields.io/badge/UI-Responsive_Design-0D1117?style=flat-square&logo=tailwindcss&logoColor=38B2AC" />
+<img src="https://img.shields.io/badge/State-React_Hooks-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
+</div>
+</details>
+
+</div>
+
+<br><br>
+
+<h3 align="center" style="font-family: sans-serif; color: #38BDF8;">
 📈 CODING FREQUENCY
 </h3>
 <div align="center">
