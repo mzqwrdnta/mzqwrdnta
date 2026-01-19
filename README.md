@@ -1,74 +1,81 @@
 <div align="center">
 
-  # Muhamad Zaqi Wiradinata
-
-  ### Junior Web Developer | Student
-
-  <p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30"> 
+  <h1 style="display: inline-block">Muhamad Zaqi Wiradinata</h1>
+  
+  <p>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=3572A5&center=true&vCenter=true&width=500&lines=Building+Modern+Web+Experiences;Focusing+on+React,+Laravel,+%26+Tailwind;Always+Learning+and+Improving" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Junior+Fullstack+Developer;Laravel+%26+React+Enthusiast;Building+Scalable+Web+Apps" alt="Typing SVG" />
     </a>
   </p>
 
-  <p align="center">
-    <a href="#connect">Connect</a> •
-    <a href="#skills">Skills</a> •
-    <a href="#projects">Projects</a>
+  <p>
+    <a href="https://instagram.com/zawxr_12" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="https://linkedin.com/in/USERNAME_LINKEDIN_KAMU" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:EMAIL_KAMU@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
   </p>
 
+  <br>
+
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-705b763a-45c1-424a-b50a-f0f7f3206450.gif" width="100%">
 </div>
 
----
+<h3 align="center">👨‍💻 About Me</h3>
 
-### 👨‍💻 About Me
+<p align="center">
+  Saya adalah siswa kelas 12 jurusan <b>PPLG (Software Engineering)</b> yang memiliki passion kuat di dunia <b>Web Development</b>. Saya tidak hanya menulis kode, tapi membangun solusi. Saat ini fokus mendalami arsitektur <i>Monolith</i> (Laravel) dan <i>Single Page Application</i> (React) serta manajemen server dasar.
+</p>
 
-Saya adalah siswa kelas 12 jurusan **Pengembangan Perangkat Lunak dan Gim (PPLG)** yang berfokus pada **Fullstack Web Development**. Saya memiliki passion dalam membangun aplikasi web yang skalabel dan efisien, dengan ketertarikan khusus pada manajemen server dan sistem pada aplikasi.
-
-Saat ini saya sedang mendalami ekosistem **React**, **Laravel** dan konfigurasi **DevOps** dasar.
-
----
-
-### 🛠️ Technical Expertise <a name="skills"></a>
-
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) |
-| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white) |
-
----
-
-### 🚀 Current Focus & Highlights
-
-* **Modern Web Development**: Merancang dan membangun aplikasi web yang responsif dan interaktif
-* **Server Administration**: Eksplorasi deployment self-hosted dan optimasi konfigurasi Nginx.
-* **Code Quality**: Mempelajari *best practices* dalam version control (Git flow) dan struktur proyek Laravel.
-
-<details>
-<summary>⚡ <b>Personal Interests (Click to expand)</b></summary>
 <br>
 
-* 🎨 **Creative**: Menggambar adalah cara saya melatih detail visual.
-* 🎧 **Focus**: Coding produktif selalu ditemani musik.
-* 🍜 **Fuel**: Mie Ayam enthusiast.
+<h3 align="center">🛠️ Tech Stack & Tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,tailwind,vite,mysql,git,nginx,linux,vscode&theme=dark&perline=7" />
+  </a>
+</p>
 
-</details>
+<br>
 
----
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚀 Current Highlights</h3>
+      <ul>
+        <li><b>Web Apps:</b> Mengembangkan e-commerce responsif dengan <code>React.js</code> & <code>Vite</code>.</li>
+        <li><b>Backend:</b> Eksplorasi RESTful API menggunakan <code>Laravel</code>.</li>
+        <li><b>DevOps:</b> Belajar deployment mandiri di VPS Linux dengan <code>Nginx</code>.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ Quick Facts</h3>
+      <ul>
+        <li>🎨 <b>Hobby:</b> Digital Drawing & Illustration.</li>
+        <li>🎧 <b>Vibe:</b> Coding with Lo-Fi / J-Pop.</li>
+        <li>🍜 <b>Fuel:</b> Mie Ayam Hunter.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### 📊 GitHub Analytics
+<br>
 
+<h3 align="center">📊 GitHub Analytics</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mzqwrdnta&show_icons=true&theme=transparent&hide_border=true&title_color=3572A5&text_color=555" alt="Zaqi's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzqwrdnta&layout=compact&theme=transparent&hide_border=true&title_color=3572A5&text_color=555" alt="Top Languages" />
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=mzqwrdnta&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" alt="Zaqi's Stats" height="160" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzqwrdnta&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Top Languages" height="160" />
+  </p>
 </div>
 
----
+<br>
 
-<div align="center" id="connect">
-  
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/zawxr_12)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME_LINKEDIN_KAMU)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL_KAMU@gmail.com)
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=80&section=footer" width="100%">
 </div>
