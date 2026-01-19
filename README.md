@@ -11,7 +11,7 @@
 <a href="#stats">
 <img src="https://img.shields.io/badge/METRICS-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=38BDF8&border=1" />
 </a>
-<a href="mailto:emailmu@gmail.com">
+<a href="mailto:mzqwrdnta@gmail.com">
 <img src="https://img.shields.io/badge/HIRE_ME-0D1117?style=for-the-badge&logo=minutemailer&logoColor=38BDF8&border=1" />
 </a>
 </div>
@@ -83,7 +83,7 @@ SSH Hardening<br>Reverse Proxy<br>TurnKey Linux
 BACKEND CORE
 </div>
 <div style="padding: 15px; text-align: center;">
-<img src="https://skillicons.dev/icons?i=laravel,php,mysql,composer,postman&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql,composer,postman,python&theme=dark&perline=3" />
 <br><br>
 <p style="font-size: 11px; color: #8b949e; margin: 0; font-family: monospace;">
 RESTful APIs<br>MVC Pattern<br>Database Design
@@ -98,7 +98,7 @@ RESTful APIs<br>MVC Pattern<br>Database Design
 INTERFACE / UI
 </div>
 <div style="padding: 15px; text-align: center;">
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,html,css,figma&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,html,css,nextjs,figma&theme=dark&perline=3" />
 <br><br>
 <p style="font-size: 11px; color: #8b949e; margin: 0; font-family: monospace;">
 Responsive UI<br>React Hooks<br>Modern CSS
