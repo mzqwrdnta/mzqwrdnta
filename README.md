@@ -35,7 +35,7 @@ Saya adalah <b>Fullstack Engineer</b> yang unik karena memiliki pemahaman mendal
 Saya tidak hanya coding fitur dengan <b>Laravel & React</b>, tapi juga merancang infrastruktur production menggunakan <b>Ubuntu</b>, mengamankan server dengan <b>SSH Hardening</b>, dan mengoptimalkan <b>Nginx Reverse Proxy</b>.
 </p>
 <br>
-<span style="color: #38BDF8; font-family: monospace;">root@zaqi-server:~$</span> <span style="color: #fff; font-family: monospace;">./show-skills.sh --all</span>
+<span style="color: #38BDF8; font-family: monospace;">root@zaqi-server:~$</span> <span style="color: #fff; font-family: monospace;">./show-status.sh --active</span>
 </div>
 
 </td>
@@ -54,73 +54,65 @@ Saya tidak hanya coding fitur dengan <b>Laravel & React</b>, tapi juga merancang
 </table>
 
 <br>
-<h3 align="center" style="font-family: sans-serif; color: #38BDF8; margin-bottom: 20px;">
-🛠️ TECHNICAL ARSENAL
+
+<h3 align="left" style="font-family: sans-serif; color: #38BDF8; border-bottom: 1px solid #30363d; padding-bottom: 10px; margin-bottom: 20px;">
+🛠️ ARCHITECTURE & TECHNOLOGY STACK
 </h3>
 
-<div align="center">
-<p style="color: #94A3B8; font-family: monospace; font-size: 13px; margin-bottom: 10px;">
-// CORE TECHNOLOGIES
-</p>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=react,laravel,nginx,ubuntu&theme=dark" />
-</a>
+<table width="100%" style="border-collapse: separate; border-spacing: 0;">
+<tr>
+
+<td width="33%" valign="top" style="padding: 5px;">
+<div style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117; height: 100%; overflow: hidden;">
+<div style="background-color: #161b22; padding: 10px; border-bottom: 1px solid #30363d; font-family: sans-serif; color: #c9d1d9; font-weight: bold; font-size: 13px; text-align: center;">
+SERVER & DEVOPS
 </div>
+<div style="padding: 15px; text-align: center;">
+<img src="https://skillicons.dev/icons?i=ubuntu,debian,linux,nginx,bash,docker,git&theme=dark&perline=3" />
+<br><br>
+<p style="font-size: 11px; color: #8b949e; margin: 0; font-family: monospace;">
+SSH Hardening<br>Reverse Proxy<br>TurnKey Linux
+</p>
+</div>
+</div>
+</td>
+
+<td width="33%" valign="top" style="padding: 5px;">
+<div style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117; height: 100%; overflow: hidden;">
+<div style="background-color: #161b22; padding: 10px; border-bottom: 1px solid #30363d; font-family: sans-serif; color: #c9d1d9; font-weight: bold; font-size: 13px; text-align: center;">
+BACKEND CORE
+</div>
+<div style="padding: 15px; text-align: center;">
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql,composer,postman&theme=dark&perline=3" />
+<br><br>
+<p style="font-size: 11px; color: #8b949e; margin: 0; font-family: monospace;">
+RESTful APIs<br>MVC Pattern<br>Database Design
+</p>
+</div>
+</div>
+</td>
+
+<td width="33%" valign="top" style="padding: 5px;">
+<div style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117; height: 100%; overflow: hidden;">
+<div style="background-color: #161b22; padding: 10px; border-bottom: 1px solid #30363d; font-family: sans-serif; color: #c9d1d9; font-weight: bold; font-size: 13px; text-align: center;">
+INTERFACE / UI
+</div>
+<div style="padding: 15px; text-align: center;">
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,html,css,figma&theme=dark&perline=3" />
+<br><br>
+<p style="font-size: 11px; color: #8b949e; margin: 0; font-family: monospace;">
+Responsive UI<br>React Hooks<br>Modern CSS
+</p>
+</div>
+</div>
+</td>
+
+</tr>
+</table>
+
 <br>
 
-<div align="center">
-
-<details>
-<summary style="cursor: pointer; background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 10px; display: inline-flex; align-items: center; justify-content: center; width: 85%; margin-bottom: 8px;">
-<img src="https://img.shields.io/badge/SERVER_&_DEVOPS-Click_to_Expand-0D1117?style=social&logo=linux" alt="DevOps" />
-</summary>
-<div style="padding: 15px; background-color: #0d1117; border: 1px solid #30363d; border-top: none; border-radius: 0 0 6px 6px; width: 85%; margin-bottom: 15px;">
-<p style="color: #38BDF8; font-family: monospace; font-size: 12px; margin-bottom: 10px;">
-root@server:~/deploy# ls -la
-</p>
-<img src="https://skillicons.dev/icons?i=ubuntu,debian,linux,nginx,bash,docker,git,github&theme=dark&perline=8" />
-<br><br>
-<img src="https://img.shields.io/badge/Skill-Reverse_Proxy-0D1117?style=flat-square&logo=nginx&logoColor=009639" />
-<img src="https://img.shields.io/badge/Skill-SSH_Hardening-0D1117?style=flat-square&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Skill-TurnKey_Linux-0D1117?style=flat-square&logo=debian&logoColor=A81D33" />
-</div>
-</details>
-
-<details>
-<summary style="cursor: pointer; background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 10px; display: inline-flex; align-items: center; justify-content: center; width: 85%; margin-bottom: 8px;">
-<img src="https://img.shields.io/badge/BACKEND_&_DATABASE-Click_to_Expand-0D1117?style=social&logo=laravel" alt="Backend" />
-</summary>
-<div style="padding: 15px; background-color: #0d1117; border: 1px solid #30363d; border-top: none; border-radius: 0 0 6px 6px; width: 85%; margin-bottom: 15px;">
-<p style="color: #FF2D20; font-family: monospace; font-size: 12px; margin-bottom: 10px;">
-php artisan migrate:fresh --seed
-</p>
-<img src="https://skillicons.dev/icons?i=laravel,php,mysql,composer,postman&theme=dark&perline=6" />
-<br><br>
-<img src="https://img.shields.io/badge/Architecture-MVC_Pattern-0D1117?style=flat-square&logo=laravel&logoColor=FF2D20" />
-<img src="https://img.shields.io/badge/Data-REST_API-0D1117?style=flat-square&logo=postman&logoColor=FF6C37" />
-</div>
-</details>
-
-<details>
-<summary style="cursor: pointer; background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 10px; display: inline-flex; align-items: center; justify-content: center; width: 85%;">
-<img src="https://img.shields.io/badge/FRONTEND_&_UI-Click_to_Expand-0D1117?style=social&logo=react" alt="Frontend" />
-</summary>
-<div style="padding: 15px; background-color: #0d1117; border: 1px solid #30363d; border-top: none; border-radius: 0 0 6px 6px; width: 85%;">
-<p style="color: #61DAFB; font-family: monospace; font-size: 12px; margin-bottom: 10px;">
-npm run build
-</p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,html,css,figma&theme=dark&perline=7" />
-<br><br>
-<img src="https://img.shields.io/badge/UI-Responsive_Design-0D1117?style=flat-square&logo=tailwindcss&logoColor=38B2AC" />
-<img src="https://img.shields.io/badge/State-React_Hooks-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
-</div>
-</details>
-
-</div>
-
-<br><br>
-
-<h3 align="center" style="font-family: sans-serif; color: #38BDF8;">
+<h3 align="left" style="font-family: sans-serif; color: #38BDF8; margin-top: 20px;">
 📈 CODING FREQUENCY
 </h3>
 <div align="center">
