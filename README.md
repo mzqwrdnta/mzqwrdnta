@@ -1,108 +1,115 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=250&section=header&text=Muhamad%20Zaqi%20W.&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Engineer%20%7C%20PPLG%20Student&descAlignY=55&descAlign=62&fontColor=ffffff" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10,20&height=2" width="100%"/>
   
   <br>
   
+  <h1 style="font-size: 30px;">Muhamad Zaqi Wiradinata</h1>
+  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps;Explorign+React+%26+Laravel;Crafting+Digital+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Geist+Mono&weight=500&size=18&pause=1000&color=A1A1AA&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Specializing+in+High-Performance+Web+Apps;Crafting+Solutions+with+Laravel+%26+React" alt="Typing SVG" />
+  </a>
+  
+  <br><br>
+
+  <a href="#work">
+    <img src="https://img.shields.io/badge/View_Portfolio-white?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+  <a href="mailto:emailmu@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-black?style=for-the-badge&logo=minutemailer&logoColor=white" />
   </a>
 </div>
 
-<p align="center">
-  <a href="#about">
-    <img src="https://img.shields.io/badge/👤_About_Me-0f172a?style=for-the-badge&logoColor=white&border=1" />
-  </a>
-  <a href="#stack">
-    <img src="https://img.shields.io/badge/🛠️_Tech_Stack-0f172a?style=for-the-badge&logoColor=white&border=1" />
-  </a>
-  <a href="#stats">
-    <img src="https://img.shields.io/badge/📊_Stats-0f172a?style=for-the-badge&logoColor=white&border=1" />
-  </a>
-  <a href="https://instagram.com/zawxr_12">
-    <img src="https://img.shields.io/badge/📸_Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=E4405F&border=1" />
-  </a>
-</p>
+<br><br>
 
-<br>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mzqwrdnta&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="Zaqi's Trophies" />
-  </a>
-</div>
-
-<br>
-<hr style="border-color: #38BDF8;">
-
-<h2 id="about">👨‍💻 The Developer</h2>
-
-<table>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="65%" valign="top">
-      <p>
-        Hai! Saya <b>Zaqi</b>, seorang siswa PPLG yang berdedikasi. Saya memandang kode sebagai seni untuk memecahkan masalah nyata.
+    <td width="55%" valign="top" style="padding-right: 20px;">
+      <h3 align="left">🚀 Engineering Philosophy</h3>
+      <p align="left">
+        Saya adalah <b>Fullstack Developer</b> dengan spesialisasi dalam membangun aplikasi web yang <i>scalable</i> dan <i>maintainable</i>. 
       </p>
-      <p>
-        Fokus utama saya saat ini adalah membangun ekosistem sistem aplikasi yang handal menggunakan <b>Laravel (Backend)</b> dan <b>React (Frontend)</b>, serta memastikan deployment yang efisien menggunakan <b>Nginx</b>.
+      <p align="left">
+        Fokus teknis saya adalah menjembatani kesenjangan antara <b>Backend Logic</b> yang kompleks (Laravel) dan <b>Frontend Experience</b> yang interaktif (React). Saya percaya bahwa kode yang baik adalah kode yang tidak hanya berfungsi, tetapi juga mudah dipahami oleh tim.
       </p>
       <br>
-      <details>
-        <summary><b>⚡ My Coding Philosophy (Click Me!)</b></summary>
-        <br>
-        <ul>
-          <li>🧩 <b>Clean Code:</b> Kode harus bisa dibaca manusia, bukan cuma mesin.</li>
-          <li>🚀 <b>Performance:</b> Kecepatan website adalah prioritas UX nomor satu.</li>
-          <li>🔄 <b>Continuous Learning:</b> Teknologi berubah tiap detik, saya pun begitu.</li>
-        </ul>
-      </details>
+      <h3 align="left">⚡ Core Competencies</h3>
+      <ul align="left">
+        <li><b>System Architecture:</b> MVC Pattern, RESTful APIs.</li>
+        <li><b>Frontend Engineering:</b> React Hooks, Tailwind Responsive Design.</li>
+        <li><b>DevOps Basics:</b> Linux Server Management (Nginx), Version Control (Git Flow).</li>
+      </ul>
     </td>
-    <td width="35%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mzqwrdnta&theme=tokyonight" width="100%" />
+    
+    <td width="45%" valign="top">
+      <h3 align="left">📊 Contribution Activity</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=mzqwrdnta&show_icons=true&theme=transparent&hide_border=false&title_color=000&text_color=555&icon_color=000&bg_color=ffffff&border_color=e5e5e5" width="100%" />
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzqwrdnta&layout=compact&theme=transparent&hide_border=false&title_color=000&text_color=555&bg_color=ffffff&border_color=e5e5e5" width="100%" />
     </td>
   </tr>
 </table>
 
 <br>
 
-<h2 id="stack">🛠️ Arsenal & Tools</h2>
+<h3 align="center">🛠️ Technical Arsenal</h3>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,js,php,laravel,mysql,git,github,vscode,linux,nginx,figma,postman&theme=dark&perline=16" />
+  <table border="0">
+    <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=react" width="45"/><br>React
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=laravel" width="45"/><br>Laravel
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>Tailwind
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=vite" width="45"/><br>Vite
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=nginx" width="45"/><br>Nginx
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <details>
+    <summary style="cursor: pointer;"><b>View Complete Toolset 🔽</b></summary>
+    <br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,vscode,linux,figma,postman,docker&theme=light&perline=10" />
+  </details>
 </div>
 
 <br>
 
-<h2 id="stats">📊 Performance Metrics</h2>
+<h3 align="center">📈 Coding Frequency</h3>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mzqwrdnta&theme=light&hide_border=false&background=ffffff&ring=000000&fire=000000&currStreakLabel=000000&border=e5e5e5" width="100%" />
+</div>
+
+<br><br>
 
 <table width="100%">
   <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=mzqwrdnta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&count_private=true" width="100%" />
+    <td width="50%" align="left">
+      <a href="https://linkedin.com/in/username-linkedin">
+        <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+      </a>
     </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzqwrdnta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" width="100%" />
+    <td width="50%" align="right">
+      <a href="https://instagram.com/zawxr_12">
+        <img src="https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+      </a>
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mzqwrdnta&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="100%" />
-</div>
-
-<br>
-
-<h2 id="contact">📫 Let's Collaborate</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/USERNAME_LINKEDIN_KAMU" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mzqwrdnta@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=100&section=footer" width="100%" />
-  <p style="font-size: 12px;">Profile Views</p>
-  <img src="https://komarev.com/ghpvc/?username=mzqwrdnta&label=VISITORS&color=0f172a&style=flat-square" alt="Visitor Counter" />
+  <p style="font-size: 11px; color: #888;">Built with passion by <b>Muhamad Zaqi Wiradinata</b> © 2026</p>
 </div>
